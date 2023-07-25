@@ -8,3 +8,30 @@ body{
     border: 1px solid black;
     margin: 20px;
 }
+.card:hover{
+    box-shadow: 0 0 10px black;
+    width: 440px;
+}
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+.text{
+    padding: 20px;
+}
+h2{
+font-size: 30px;
+color: black;
+margin-bottom: 16px;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+    background-color: orangered;
+    padding: 2px 2px;
+    color: black;
+    text-transform: none;
+}
+a:hover{
+    background-color: orange;
+}
